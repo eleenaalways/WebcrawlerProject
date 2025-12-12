@@ -1,0 +1,1399 @@
+{
+  "university": "Australian Catholic University (ACU)",
+  "website": "https://www.acu.edu.au",
+  "extraction_date": "2025-12-10",
+  "extraction_time": "15:08:06",
+  "summary": {
+    "total_courses": 35,
+    "by_study_level": {
+      "Undergraduate": 25,
+      "Postgraduate": 10
+    },
+    "by_course_type": {
+      "Bachelor Degree": 25,
+      "Master Degree": 7,
+      "Graduate Certificate": 3
+    },
+    "by_subject_area": {
+      "Nursing & Midwifery": 2,
+      "Allied Health": 4,
+      "Business & Commerce": 5,
+      "Information Technology": 2,
+      "Education & Teaching": 8,
+      "Law & Criminology": 2,
+      "Psychology": 3,
+      "Social Work & Community Services": 2,
+      "Theology & Philosophy": 1,
+      "Exercise & Sports Science": 1,
+      "Nutrition & Biomedical Science": 2,
+      "Creative Arts & Humanities": 3
+    },
+    "by_campus": {
+      "Ballarat": 35,
+      "Blacktown": 35,
+      "Brisbane": 35,
+      "Canberra": 35,
+      "Melbourne": 35,
+      "North Sydney": 35,
+      "Strathfield": 35
+    },
+    "online_available": 35,
+    "part_time_available": 35
+  },
+  "courses_by_study_area": {
+    "Nursing & Midwifery": [
+      {
+        "course_name": "Bachelor of Nursing",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Nursing & Midwifery",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$7518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$7518 AUD/year"
+        },
+        "description": "Staff profileDr Lyn TaylorSenior Lecturer & National Course Coordinator, Bachelor of NursingDr Lyn Taylor is a registered nurse with a background in perioperative and paranesthesia care. While in the acute care sector, Lyn worked closely with undergraduate and postgraduate students as a clinical facilitator. For the past 16 years, she has worked in tertiary education as simulation coordinator and teaching academic. As the National Course Coordinator for the Bachelor of Nursing, Lyn is involved w...",
+        "atar_requirement": "61.90",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-nursing"
+      },
+      {
+        "course_name": "Bachelor of Midwifery",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Nursing & Midwifery",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$7518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$7518 AUD/year"
+        },
+        "description": "Staff profileDr Kate DawsonLecturer (Midwifery) and Course Coordinator Bachelor of Midwifery, School of Nursing, Midwifery and ParamedicineDr Dawson is a lecturer and researcher in midwifery, her research focuses on midwives’ role and value in protecting, promoting, and practicingmidwifery, using both qualitative and quantitative methodologies to explore this area. Dr Dawson has taught midwifery programs for 10 years and is currently teaching and coordinating the Bachelor of Midwifery program at...",
+        "atar_requirement": "72.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-midwifery"
+      }
+    ],
+    "Allied Health": [
+      {
+        "course_name": "Bachelor of Physiotherapy",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Allied Health",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$10518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$10518 AUD/year"
+        },
+        "description": "Staff profileAssociate Professor Jane ButlerHead of Physiotherapy, School of Allied HealthAssociate Professor Jane Butler is the Head of Discipline Physiotherapy in the School of Allied Health, and the National Post-graduate Course Coordinator and National Physiotherapy Undergraduate Course Coordinator, based in our North Sydney campus. She has over 30 years experience in the higher education sector and has been involved with the development and implementation of curriculum into undergraduate an...",
+        "atar_requirement": "88.25",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-physiotherapy"
+      },
+      {
+        "course_name": "Bachelor of Speech Pathology",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Allied Health",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$10518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$10518 AUD/year"
+        },
+        "description": "Staff profileAssociate Professor Jane McCormackHead of Speech Pathology, Deputy Head of the School of Allied Health (NSW)Associate Professor Jane McCormack is Head of Speech Pathology at ACU. She is a certified practicing member of Speech Pathology Australia and has worked in community health clinics, schools, and early intervention settings with children who have speech, language and communication needs. Associate Professor McCormack teaches and researches in paediatric speech and language, the...",
+        "atar_requirement": "81.20",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-speech-pathology"
+      },
+      {
+        "course_name": "Bachelor of Occupational Therapy",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Allied Health",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$10518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$10518 AUD/year"
+        },
+        "description": "I like that it is very personable, every tutor knows my name and knows a bit about me, and I know most students within my year and course. I think I enjoyed placement the most though because I love hands-on learning and I'm grateful we get to do it so early in our course.",
+        "atar_requirement": "80.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-occupational-therapy"
+      },
+      {
+        "course_name": "Bachelor of Paramedicine",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Allied Health",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$9918 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$9918 AUD/year"
+        },
+        "description": "I enjoy listening to experiences offered in the learning environment by lecturers who have practised in our intended field of study which further provides me with an understanding of the theory and practical learning being delivered. The staff that I have interactions with are always kind, helpful and understanding within the learning environment. They further put their previous experiences in field into a scenario where the class is able to adapt the key learning criteria to better understand t...",
+        "atar_requirement": "81.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-paramedicine"
+      }
+    ],
+    "Business & Commerce": [
+      {
+        "course_name": "Bachelor of Commerce",
+        "department": "Faculty of Law and Business",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Business & Commerce",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$16410 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$16410 AUD/year"
+        },
+        "description": "Staff profileDr Marzena BakerSenior Lecturer, Peter Faber Business SchoolWith a keen interest in promoting workplace equity, diversity, inclusion, and wellbeing Marzena focuses her research and publications on effective workplace diversity policies, and practices. Her expertise lies in supporting women to occupy leadership roles in project-based organisations. Dr. Baker's recent publications, which have appeared in several high-quality management, project management, construction, and engineerin...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-commerce"
+      },
+      {
+        "course_name": "Bachelor of Business",
+        "department": "Faculty of Law and Business",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Business & Commerce",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$16410 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$16410 AUD/year"
+        },
+        "description": "Staff profileDr Joanna VogeleyLecturer, Bachelor of Business course coordinator, Peter Faber Business SchoolJoanna (PhD, Macquarie University and the University of Sydney) is a Lecturer and Bachelor of Business Coordinator at Peter Faber Business School. Joanna is uniquely positioned, holding dual PhD qualifications at the nexus of business, anthropology, and sub-streams of psychology, as well as Balinese critical texts. Her research interests focus on social entrepreneurship and impact investin...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-business"
+      },
+      {
+        "course_name": "Bachelor of Accounting and Finance",
+        "department": "Faculty of Law and Business",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Business & Commerce",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$14828 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$14828 AUD/year"
+        },
+        "description": "Staff profileAssociate Professor Md AkhtaruzzamanDiscipline Leader in Accounting, Finance, Economics and Lecturer in Finance, Peter Faber Business SchoolAssociate Professor Md Akhtaruzzaman is the Discipline Leader in Accounting, Finance and Economics and a lecturer in finance. He worked as lecturer in finance at the University of Newcastle. He also worked as a Curriculum Technical Advisor at Kaplan Professional Australia.Associate Professor Akhtaruzzaman received his PhD from the University of ...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-accounting-and-finance"
+      },
+      {
+        "course_name": "Master of Business Administration",
+        "department": "Faculty of Law and Business",
+        "study_level": "Postgraduate",
+        "course_type": "Master Degree",
+        "subject_area": "Business & Commerce",
+        "duration": "2 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": true
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$15810 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$15810 AUD/year"
+        },
+        "description": "Staff profileAssociate Professor Dr Pandula GamageDeputy Head of School, Peter Faber Business SchoolDr Gamage completed his PhD at La Trobe University, Master of Commerce degree (Accounting) at the University of Melbourne and the Graduate Certificate in Tertiary Education at Victoria University. Since commencing at ACU, Dr Gamage has provided and continues to provide productive and sustained leadership in a range of areas. He has taught extensively in international programs including China, Sing...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/master-of-business-administration"
+      },
+      {
+        "course_name": "Graduate Certificate in Business Administration",
+        "department": "Faculty of Law and Business",
+        "study_level": "Postgraduate",
+        "course_type": "Graduate Certificate",
+        "subject_area": "Business & Commerce",
+        "duration": "0.5 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$8696 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$8696 AUD/year"
+        },
+        "description": "Staff profileDr Samantha MurdySenior Lecturer, Peter Faber Business SchoolDr Samantha Murdy is an academic in Marketing with over 15 years of teaching, research, and consulting experience. Before joining ACU, she worked in the Queensland University of Technology and the University of Strathclyde. She holds a PhD and a Bachelor (Honours) degree in Marketing. She also holds a PG Cert in Higher Education Teaching and is a member of the Higher Education Academy. Samantha has a keen research interest...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/graduate-certificate-in-business-administration"
+      }
+    ],
+    "Information Technology": [
+      {
+        "course_name": "Bachelor of Information Technology",
+        "department": "Faculty of Law and Business",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Information Technology",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$13464 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$13464 AUD/year"
+        },
+        "description": "Staff profileDr Mehdi RajaeianLecturer in Information Technology, Peter Faber Business SchoolDr Mehdi Rajaeianleads the Data Analytics stream in the Peter Faber Business School and teaches a variety of IT subjects such as Database Design, Data Analytics & Visualisation, Data Mining and Big Data. He is also engaged with industry through providing IT consultancy services. Dr Rajaeian has 15 years of academic work experience. Before his academic career Dr Rajaeian has worked in IT industry as Syste...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-information-technology"
+      },
+      {
+        "course_name": "Master of Information Technology",
+        "department": "Faculty of Law and Business",
+        "study_level": "Postgraduate",
+        "course_type": "Master Degree",
+        "subject_area": "Information Technology",
+        "duration": "2 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$9536 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$9536 AUD/year"
+        },
+        "description": "Staff profileDr Walayat HussainAssociate Professor, Peter Faber Business SchoolDr Walayat Hussainis an associate professor within the discipline of Information Technology at Peter Faber Business School. He has an academic and industry experience of more than 17 years. Before joining the ACU, he was a lecturer at Victoria University Melbourne, lecturer and a Post-doctoral Research Fellow at the University of Technology Sydney for seven years. He worked as an Assistant Professor and postgraduate p...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/master-of-information-technology"
+      }
+    ],
+    "Education & Teaching": [
+      {
+        "course_name": "Bachelor of Education (Primary)",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Education & Teaching",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$5336 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$5336 AUD/year"
+        },
+        "description": "Staff profileDr Matthew ZbarackiSenior Lecturer School of Education VictoriaDr Matthew Zbaracki is a senior lecturer in the School of Education in Victoria at the Australian Catholic University. Since commencing with ACU in 2008, Dr Zbaracki has taught children’s literature to students in the Bachelor of Education degree, as well as second year literacy at postgraduate level. With a masters degree in bilingual education from the University of Colorado Denver, he then completed a PhD in children’...",
+        "atar_requirement": "70.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-education-primary"
+      },
+      {
+        "course_name": "Bachelor of Education (Secondary)",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Education & Teaching",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$7518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$7518 AUD/year"
+        },
+        "description": "\"I enjoy the freedom of university and ACU has given me the opportunity to be responsible for my own learning. I have also loved studying what I love. In comparison to high school, where your schooling is quite structured, ACU allows you to invest your time in subjects that you enjoy. My course also provided me with great communication skills due to the increase in classroom engagement in my teaching classes.\"",
+        "atar_requirement": "65.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-education-secondary"
+      },
+      {
+        "course_name": "Bachelor of Early Childhood Education (Birth to Five Years)",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Education & Teaching",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$4736 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$4736 AUD/year"
+        },
+        "description": "Staff profileLaurien BeaneEarly Childhood Education Lecturer and advocateLaurien Beane is a lecturer in the Faculty of Education and Arts at Australian Catholic University and engages in leadership for improving professional practice in early childhood. Laurien collaborates on government sponsored projects with industry partners conducting curriculum, policy and practice workshops. Laurien has held executive roles in organisations including Early Childhood Australia, Queensland, and Australian E...",
+        "atar_requirement": "60.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-early-childhood-education-birth-to-five-years"
+      },
+      {
+        "course_name": "Master of Teaching (Primary)",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Postgraduate",
+        "course_type": "Master Degree",
+        "subject_area": "Education & Teaching",
+        "duration": "2 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": true
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$4736 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$4736 AUD/year"
+        },
+        "description": "Staff profileDr Kim RowstonSenior Lecturer (Education), School of Education NSW/ACT - StrathfieldDr Kim Rowston is a senior lecturer in the National School of Education based at ACU’s Strathfield Campus. She joined ACU in 2012 and specialises in technologies education curriculum with a focus on fostering pre-service teachers’ understanding and skills to create meaningful learning through the authentic integration of technology pedagogy. She is also particularly interested in social cognitive the...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/master-of-teaching-primary"
+      },
+      {
+        "course_name": "Master of Teaching (Secondary)",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Postgraduate",
+        "course_type": "Master Degree",
+        "subject_area": "Education & Teaching",
+        "duration": "2 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": true
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$5920 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$5920 AUD/year"
+        },
+        "description": "“I chose ACU because it gave me the opportunity to study an area I felt passionately about. I see the need for education to develop young minds and give them options to excel in the real world. My first practical experience was at Murrumba State Secondary College. The experience was incredible, and I really felt like I was giving back to the local community.”",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/master-of-teaching-secondary"
+      },
+      {
+        "course_name": "Master of Education",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Postgraduate",
+        "course_type": "Master Degree",
+        "subject_area": "Education & Teaching",
+        "duration": "1.5 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$4736 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$4736 AUD/year"
+        },
+        "description": "Staff profileProfessor Amanda TelfordHead of Discipline Postgraduate Education, National School of EducationProfessor Amanda Telford is a teacher and researcher in health, wellbeing and educational leadership within the National School of Education. She is currently the National Course Coordinator of the Master of Education and has over two decades experience in senior learning and teaching leadership roles as a former secondary teacher and academic across four universities including: Associate ...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/master-of-education"
+      },
+      {
+        "course_name": "Graduate Certificate in Education",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Postgraduate",
+        "course_type": "Graduate Certificate",
+        "subject_area": "Education & Teaching",
+        "duration": "1 semesters",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$2368 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$2368 AUD/year"
+        },
+        "description": "Staff profileProfessor Amanda TelfordHead of Discipline Postgraduate Education, National School of EducationProfessor Amanda Telford is a teacher and researcher in health, wellbeing and educational leadership within the National School of Education. She is currently the National Course Coordinator of the Master of Education and has over two decades experience in senior learning and teaching leadership roles as a former secondary teacher and academic across four universities including: Associate ...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/graduate-certificate-in-education"
+      },
+      {
+        "course_name": "Graduate Certificate in Religious Education",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Postgraduate",
+        "course_type": "Graduate Certificate",
+        "subject_area": "Education & Teaching",
+        "duration": "0.5 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$9268 AUD/year",
+          "domestic_fee_paying": "$9268 AUD/year",
+          "international": "$9268 AUD/year"
+        },
+        "description": "Staff profileDr Peter IversSenior Lecturer, Religious EducationDr Peter Ivers is based on the McAuley (Brisbane) campus of Australian Catholic University (ACU) and has experience in a variety of leadership roles in different settings.Before coming to ACU on a full-time basis, he worked as the Assistant Principal (Senior Years) at St Eugene College (a prep to Year 12 college) in the Archdiocese of Brisbane. He also worked for many years as the Assistant Principal (Religious Education). At the dio...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/graduate-certificate-in-religious-education"
+      }
+    ],
+    "Law & Criminology": [
+      {
+        "course_name": "Bachelor of Laws",
+        "department": "Faculty of Law and Business",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Law & Criminology",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$17392 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$17392 AUD/year"
+        },
+        "description": "Staff profileAssociate Professor Kunle OlaAssociate Professor, Thomas More Law SchoolDr Kunle Ola is a lawyer with an academic, legal, regulatory, enforcement and administrative background. He started his formal legal career at the Corporate Affairs Commission in Nigeria and then joined a private law firm as a partner.Dr Ola has represented Nigeria on several United Nations’ specialised committees including the Standing Committee for Copyright and Related Rights (SCCR), the World Intellectual Pr...",
+        "atar_requirement": "75.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-laws"
+      },
+      {
+        "course_name": "Bachelor of Criminology and Criminal Justice",
+        "department": "Faculty of Law and Business",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Law & Criminology",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$17392 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$17392 AUD/year"
+        },
+        "description": "Staff profileDr Nathan RyanLecturer, Thomas More Law SchoolNathan Ryan is a researcher and lecturer at the Thomas More Law School, Melbourne. Nathan completed his doctorate at the School of Criminology and Criminal Justice at Griffith University. His primary research area is in the investigation process in missing body homicide investigations with a focus on investigative interviewing to retrieve the spatial memory of suspects and patterns of hiding behaviour. Nathan has conducted research inves...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-criminology-and-criminal-justice"
+      }
+    ],
+    "Psychology": [
+      {
+        "course_name": "Bachelor of Psychological Science",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Psychology",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$11500 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$11500 AUD/year"
+        },
+        "description": "Staff profileDr Joanne BennettSenior Lecturer (Psychology) – School of Behavioural and Health SciencesDr Joanne Bennett is an early career researcher who finished her PhD in 2017. Her primary research interests are in cognitive neuropsychology across the lifespan, applied driving psychology and road safety. Dr Bennett’s research has focused on understanding the relationships between cognitive function and driving behaviour across the lifespan. Her research aims to use this information to determi...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-psychological-science"
+      },
+      {
+        "course_name": "Master of Psychology (Clinical)",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Postgraduate",
+        "course_type": "Master Degree",
+        "subject_area": "Psychology",
+        "duration": "2 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$4736 AUD/year (CSP)",
+          "domestic_fee_paying": "$4736 AUD/year",
+          "international": "$4736 AUD/year"
+        },
+        "description": "Staff profileDr Madeleine FraserSenior Lecturer, School of Behavioural and Health SciencesDr Madeleine Fraser started at the ACU Strathfield campus in 2015. She is the co-ordinator of the Master of Clinical Psychology program on Strathfield campus and supervises Honours and Masters research projects. Dr Fraser was the recipient of the 2017 APS Sydney Branch Outstanding Lecturer in Psychology award and was awarded the 2019 APS Early Career Teaching Award. She also runs the Clinical Psychology Res...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/master-of-psychology-clinical"
+      },
+      {
+        "course_name": "Master of Professional Psychology",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Postgraduate",
+        "course_type": "Master Degree",
+        "subject_area": "Psychology",
+        "duration": "1 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$33589 AUD/year",
+          "domestic_fee_paying": "$33589 AUD/year",
+          "international": "$33589 AUD/year"
+        },
+        "description": "Staff profileDr Elizabeth Pizarro-CampagnaLecturer, School of Behavioural and Health SciencesDr Elizabeth Pizarro-Campagna is a psychology lecturer and course co-ordinator in the School of Behavioural and Health Sciences based at the Melbourne campus. She coordinates the Master of Professional Psychology program, provides research and clinical supervision to students completing the Master of Clinical Psychology and the Master of Educational and Developmental Psychology programs, and provides res...",
+        "atar_requirement": "Not Found",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/master-of-professional-psychology"
+      }
+    ],
+    "Social Work & Community Services": [
+      {
+        "course_name": "Bachelor of Social Work",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Social Work & Community Services",
+        "duration": "4 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$13464 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$13464 AUD/year"
+        },
+        "description": "Become a social worker with this AASW-accredited qualification which includes 1000 hours of supervised field education.",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-social-work"
+      },
+      {
+        "course_name": "Bachelor of Youth Work",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Social Work & Community Services",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$12482 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$12482 AUD/year"
+        },
+        "description": "“I enjoyed that all the lecturers and teachers were from the industry with firsthand knowledge of the sector. Being able to pick their brains about the industry put myself in a great position moving forward.”",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-youth-work"
+      }
+    ],
+    "Theology & Philosophy": [
+      {
+        "course_name": "Bachelor of Theology",
+        "department": "Faculty of Theology and Philosophy",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Theology & Philosophy",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$17392 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$17392 AUD/year"
+        },
+        "description": "The Bachelor of Theology introduces students to the richness and breadth of theological scholarship.",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-theology"
+      }
+    ],
+    "Exercise & Sports Science": [
+      {
+        "course_name": "Bachelor of Exercise and Sports Science",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Exercise & Sports Science",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$14446 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$14446 AUD/year"
+        },
+        "description": "Staff profileShona HalsonProfessor in the School of Behavioural and Health ScienceProfessor Halson has been a mainstay of Australia’s high-performance sport network. She was the Head Recovery Physiologist at the Australian Institute of Sport from 2002 to 2018 and has been a part of three Olympic campaigns with the national team. Professor Halson was named as one of Exercise and Sport Science Australia’s three Female Leaders in Exercise and Sports Science on International Women’s Day 2019. Her re...",
+        "atar_requirement": "62.00",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-exercise-and-sports-science"
+      }
+    ],
+    "Nutrition & Biomedical Science": [
+      {
+        "course_name": "Bachelor of Biomedical Science",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Nutrition & Biomedical Science",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$10518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$10518 AUD/year"
+        },
+        "description": "Staff profileAssociate Professor Pre de SilvaAssociate Professor, School of Behavioural and Health SciencesAssociate Professor Pre De Silva lectures in chemistry at our North Sydney Campus. She obtained her PhD from the University of Aberdeen (UK). Before joining ACU, she worked as a lecturer at the University of Ruhuna (Sri Lanka), as a postdoctoral research associate at the University of Lancaster (UK), and then as a research scientist in the Manufacturing and Materials Division at CSIRO. Dr D...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-biomedical-science"
+      },
+      {
+        "course_name": "Bachelor of Nutrition Science",
+        "department": "Faculty of Health Sciences",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Nutrition & Biomedical Science",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": true
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$10518 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$10518 AUD/year"
+        },
+        "description": "Staff profileEmma StirlingSenior Lecturer (Nutrition and Dietetics) – School of Behavioural and Health SciencesEmma Stirling is a Senior Lecturer in nutrition and dietetics at our Melbourne campus. She is also an Advanced Accredited Practising Dietitian and award-winning nutrition communicator. As Culinary Nutrition Science Lead Emma brings her extensive industry experience from the food, hospitality, media and health sectors to the curriculum design, teaching and research of this exciting new p...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-nutrition-science"
+      }
+    ],
+    "Creative Arts & Humanities": [
+      {
+        "course_name": "Bachelor of Creative Arts",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Creative Arts & Humanities",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": true
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$13464 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$13464 AUD/year"
+        },
+        "description": "Staff profileDr Delyse RyanDeputy Head of School of Arts QLD (Creative Arts), National School of Arts and HumanitiesDr Delyse Ryan is the Deputy Head of the School of Arts (Creative Arts) and course coordinator for the Bachelor of Arts in Queensland. She has lectured in Drama and English at ACU since 1995 and has directed over 130 student theatre performances. Interested in developing new ways of performing classic texts for contemporary audiences, Dr Ryan's PhD study focused on Brisbane’s theat...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-creative-arts"
+      },
+      {
+        "course_name": "Bachelor of Visual Arts and Design",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Creative Arts & Humanities",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$11500 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$11500 AUD/year"
+        },
+        "description": "Staff profileDr Penelope TrotterLecturer (Visual Arts), Creative Arts (VIC)Dr Penelope Trotter is a Visual Arts lecturer in Art History, Video Art, Drawing and Painting, a feature writer for fine art journals and a multi-disciplinary visual and performance artist. Key interests in her feature articles are about identity theory, conceptual performance art and painting. In her own practice her most prominent exhibitions have been performance installations based on and about fantasy fulfillment in ...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-visual-arts-and-design"
+      },
+      {
+        "course_name": "Bachelor of Arts",
+        "department": "Faculty of Education and Arts",
+        "study_level": "Undergraduate",
+        "course_type": "Bachelor Degree",
+        "subject_area": "Creative Arts & Humanities",
+        "duration": "3 years full-time or equivalent part-time",
+        "study_mode": {
+          "full_time": true,
+          "part_time": true
+        },
+        "delivery_mode": {
+          "online": true,
+          "on_campus": true,
+          "blended": false
+        },
+        "campuses": [
+          "Ballarat",
+          "Blacktown",
+          "Brisbane",
+          "Canberra",
+          "Melbourne",
+          "North Sydney",
+          "Strathfield"
+        ],
+        "fees": {
+          "domestic_csp": "$17392 AUD/year (CSP)",
+          "domestic_fee_paying": "Not Found",
+          "international": "$17392 AUD/year"
+        },
+        "description": "Staff profileAssociate Professor Rachel BusbridgeSenior Lecturer in Sociology, National School of Arts and Humanities, VictoriaAssociate Professor Rachel Busbridge is one of ACU’s Sociology Lecturers based at the St Patrick’s campus in Melbourne. Since receiving her PhD in 2010, Associate Professor Busbridge has taught sociology and politics in many educational institutions; her specialised research areas of interest being diversity, multiculturalism, as well as nationalism. Furthermore, she is ...",
+        "atar_requirement": "58.50",
+        "intake_periods": [
+          "Semester 1 (February)",
+          "Semester 2 (July)"
+        ],
+        "url": "https://www.acu.edu.au/course/bachelor-of-arts"
+      }
+    ]
+  }
+}

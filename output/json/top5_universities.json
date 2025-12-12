@@ -1,0 +1,413 @@
+[
+  {
+    "university": "The University of Melbourne",
+    "city": "Melbourne",
+    "state": "Victoria",
+    "website": "https://www.unimelb.edu.au/",
+    "courses": []
+  },
+  {
+    "university": "The University of Sydney",
+    "city": "Sydney",
+    "state": "New South Wales",
+    "website": "https://www.sydney.edu.au/",
+    "courses": [
+      {
+        "url": "https://www.sydney.edu.au/study.html",
+        "name": "Find a course",
+        "description": "Our support team will be in touch as quickly as possible.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      }
+    ]
+  },
+  {
+    "university": "Australian National University",
+    "city": "Canberra",
+    "state": "Australian Capital Territory",
+    "website": "https://www.anu.edu.au/",
+    "courses": [
+      {
+        "url": "https://programsandcourses.anu.edu.au/",
+        "name": "Discover what you can study at ANU",
+        "description": "We're one of the world’s leading universities, recognised internationally for our teaching excellence and cutting-edge research.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://programsandcourses.anu.edu.au/degree-builder",
+        "name": "Programs and Courses",
+        "description": "Whatever your academic or career interests, ANU has degrees to meet your needs.Find the study option which fits you best:",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Flexible",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://programsandcourses.anu.edu.au/catalogue",
+        "name": "Catalogue Search",
+        "description": "Finddegrees,majors,minors,coursesandspecialisationsin the current academic year and beyond.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Flexible",
+        "career_outcomes": []
+      }
+    ]
+  },
+  {
+    "university": "University of New South Wales",
+    "city": "Sydney",
+    "state": "New South Wales",
+    "website": "https://www.unsw.edu.au/",
+    "courses": [
+      {
+        "url": "https://www.unsw.edu.au/study",
+        "name": "Progress for all starts with you",
+        "description": "At UNSW Sydney, the possibilities are endless. Explore our undergraduate and postgraduate university courses. For more information, connect with an adviser online.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, On-campus",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/study-options",
+        "name": "Explore your study options",
+        "description": "We know that studying at university can be a challenging task, so we designed flexible study options for students of all ages to get you where you want to go.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, Flexible",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/find-a-degree-or-course",
+        "name": "Choosing the right degree starts here",
+        "description": "Start your future today at UNSW to find the right degree or course you've been searching for. You'll hone your skills from world-leading experts in Sydney.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/professional-development",
+        "name": "Course Finder",
+        "description": "Rapidly upskill with UNSW short courses. Learn at your own pace, earn microcredentials that highlight your expertise and stay ahead with specialised knowledge in high-demand fields. Designed for working professionals, our flexible programs help you gain real-world skills that make an immediate impact.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, Flexible, Part-time available",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/professional-development/short-courses?Categories=short%20courses&sort=title",
+        "name": "UNSW short courses",
+        "description": "Advance your career with 100% online postgraduate programs at UNSW, including graduate diplomas and master’s degrees. Designed to build specialised expertise and support your professional goals. Earn globally recognised qualifications and Continuing Professional Development (CPD) certifications that are highly valued by employers across industries.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, Flexible, Part-time available",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/study-options/unsw-online",
+        "name": "UNSW online postgraduate programs",
+        "description": "Rapidly upskill with UNSW short courses. Learn at your own pace, earn microcredentials that highlight your expertise and stay ahead with specialised knowledge in high-demand fields. Designed for working professionals, our flexible programs help you gain real-world skills that make an immediate impact.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, Flexible",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/discover",
+        "name": "Discover UNSW",
+        "description": "Study where you can have it all. At UNSW Sydney you receive a career-focussed education and vibrant student community for an unmatched student experience.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/undergraduate",
+        "name": "Join us at Info Day",
+        "description": "Everything you need on your journey to uniEntry requirements: Learn more about accepted qualifications, adjustment factors you may be eligible for, entry ranks and more.Guide to UAC preferences: From offers to setting your preferences list, our guide has everything you need to know about UAC preferences.Year 10-to-uni guide: A year-by-year guide to what you should to in Year 10, Year 11 and Year 12 to put you in the best position to start uni.Year 11 guide: Everything you need to know to ahead of your final year of high school.Events and programs: Join us in person or online - we have a range of events and programs for you to experience life at UNSW Sydney.",
+        "duration": "12 months",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, On-campus",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/postgraduate",
+        "name": "The future isn't followed, it's forged",
+        "description": "UNSW postgraduate support and guidanceProfessional development at UNSWPostgraduate FAQsPostgraduate entry requirementsGet personalised adviceWhy invest in postgraduate study",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/international-students",
+        "name": "Study at a global top 20 university",
+        "description": "Join the next generation of forward-thinking graduates at globally recognised UNSW Sydney. Find out more about studying as an international student at UNSW.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/research/hdr",
+        "name": "Higher Degree Research",
+        "description": "UNSW offers three higher degree research programs: Doctor of Philosophy (PhD), Masters by Research and Master of Philosophy. ",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/discover/campus",
+        "name": "Discover our campuses",
+        "description": "Discover our varied UNSW campus locations in Australia, where we embrace a strong sense of community, inclusion and a commitment to ongoing sustainability.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, On-campus",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/accommodation",
+        "name": "Accommodation at UNSW",
+        "description": "UNSW Offers state of the art student accommodation facilities in Sydney. Enjoy student living with quick and easy access to beaches, entertainment and shops. ",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, On-campus",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/discover/student-support",
+        "name": "Student support services",
+        "description": "UNSW offers a number of student support and development services. Find programs for academic support & international student support and many more.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, On-campus",
+        "career_outcomes": []
+      }
+    ]
+  },
+  {
+    "university": "The University of Queensland",
+    "city": "Brisbane",
+    "state": "Queensland",
+    "website": "https://www.uq.edu.au/",
+    "courses": [
+      {
+        "url": "https://study.uq.edu.au/study-options",
+        "name": "Study options",
+        "description": "Explore study options to match your interests, passions and career goals.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Flexible",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/programs",
+        "name": "Find a program",
+        "description": "Search undergraduate, postgraduate and research degrees at the University of Queensland. Choose your future at Queensland's leading university. With more than 300 degrees at UQ to choose from, you'll find a degree that can set you up to achieve your goals.",
+        "duration": "4 Years full-time",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Part-time available",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/browse-study-areas",
+        "name": "Browse study areas",
+        "description": "Browse degrees by study area or search for a specific program.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/undergraduate",
+        "name": "Undergraduate study",
+        "description": "Kickstart your future career and own the unknown with an undergraduate degree.",
+        "duration": "5 years",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/postgraduate",
+        "name": "Postgraduate study",
+        "description": "Reach your full potential and master your career with a postgraduate degree.",
+        "duration": "6 months",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Online, Part-time available",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate",
+        "name": "Higher degrees by research (HDR) at UQ",
+        "description": "Complete a collaborative Doctor of Philosophy (PhD), Master of Philosophy (MPhil) or professional doctorate at UQ.",
+        "duration": "12Year",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "Part-time available",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/why-research",
+        "name": "Why do your graduate research with us",
+        "description": "Further your research and career with a Doctor of Philosophy (PhD), Master of Philosophy (MPhil) or professional doctorate.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/projects",
+        "name": "Find a PhD or MPhil project with a scholarship",
+        "description": "We offer a diverse range of postgraduate research projects that come with living stipend scholarships.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/how-choose-supervisor",
+        "name": "How to choose a supervisor",
+        "description": "Choosing the right supervisor (or 'advisor') is essential. You're going to be working with them very closely for the next 1.5 to 3.5 years, so you're going to need to work well together.",
+        "duration": "3.5 years",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/admissions/phd-mphil-professional-doctorate",
+        "name": "Higher degree by research (HDR) admissions",
+        "description": "Make an impact with a Doctor of Philosophy (PhD), Master of Philosophy (MPhil) or professional doctorate.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/aboriginal-torres-strait-islander",
+        "name": "Aboriginal and/or Torres Strait Islander higher degree by research applicants",
+        "description": "Higher degree by research (HDR) programs at UQ include theDoctor of Philosophy (PhD), theMaster of Philosophy (MPhil)and theDoctor of Veterinary Clinical Science. HDR students produce new knowledge and expertise that is innovative, relevant and progressive.",
+        "duration": "5 years",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/mobility",
+        "name": "Research mobility opportunities",
+        "description": "Take your research global through our mobility and collaboration opportunities.",
+        "duration": "12 months",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      },
+      {
+        "url": "https://study.uq.edu.au/study-options/phd-mphil-professional-doctorate/mobility/study-abroad-phds",
+        "name": "Research study abroad for PhD candidates",
+        "description": "If you're aPhD candidate at a university outside Australia, you can apply to conduct research at UQ through our study abroad program. This provides opportunities for outstanding research students from overseas to undertake part of your research degree with our leading researchers.",
+        "duration": "",
+        "fees": "",
+        "eligibility": "",
+        "syllabus": [],
+        "intake_dates": [],
+        "study_mode": "",
+        "career_outcomes": []
+      }
+    ]
+  }
+]
